@@ -1,8 +1,8 @@
 {
-  "title": "VR Mission Template",
-  "description": "This is an example of how to create a 'training mission' for the VR training environment aboard the Fog Owl!",
-  "questTitle": "Virtual Reality Training",
-  "questDescription": "Example level for VR training. See what's possible!",
+  "title": "GIT Mission 2.0",
+  "description": "This is a mission to be good at GIT knowledge!",
+  "questTitle": "Welcome To GIT Mission",
+  "questDescription": "This is all about Get good at GIT. See what's possible!",
   "mission_icon": "mission_icon.png",
   "is_mission": true,
   "priority": 10,
