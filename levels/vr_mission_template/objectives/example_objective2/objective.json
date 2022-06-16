@@ -6,16 +6,29 @@
       "name": "answer1",
       "type": "text",
       "placeholder": "type your answer here",
-      "label": "What is the name of the company that makes TwilioQuest?"
+      "label": "Git automatically adds new files to the repository and starts tracking them.(True/False)?"
     },
     {
       "name": "answer2",
       "type": "text",
       "placeholder": "type your answer here",
-      "label": "What is 2 + 2? Write the numerical response below."
+      "label": "What is the command to commit the staged changes for the Git repository?"
+    },
+    {
+      "name": "answer3",
+      "type": "text",
+      "placeholder": "type your answer here",
+      "label": "What is the command to commit with the message \"new message\""
+    },
+    {
+      "name": "answer4",
+      "type": "text",
+      "placeholder": "type your answer here",
+      "label": "What is the command to create a new branch named \"branch-1\"?"
     }
+
   ],
   "rewards": {
-    "xp": 100
+    "xp": 400
   }
 }

@@ -6,16 +6,30 @@
       "name": "answer1",
       "type": "text",
       "placeholder": "type your answer here",
-      "label": "What is the name of the company that makes TwilioQuest?"
+      "label": "What is the command to get the installed version of Git?"
     },
     {
       "name": "answer2",
       "type": "text",
       "placeholder": "type your answer here",
-      "label": "What is 2 + 2? Write the numerical response below."
+      "label": "Git is a version controlled system.(True/False)?"
+    },
+    {
+      "name": "answer3",
+      "type": "text",
+      "placeholder": "type your answer here",
+      "label": "What is the command to initialize Git on the current repository?"
+    },
+    {
+      "name": "answer4",
+      "type": "text",
+      "placeholder": "type your answer here",
+      "label": "What is the command to get the current status of the Git repository?"
     }
+    
+
   ],
   "rewards": {
-    "xp": 100
+    "xp": 400
   }
 }
